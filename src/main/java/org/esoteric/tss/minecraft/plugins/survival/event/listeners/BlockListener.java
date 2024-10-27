@@ -1,6 +1,6 @@
 package org.esoteric.tss.minecraft.plugins.survival.event.listeners;
 
-import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.Message;
 import org.esoteric.tss.minecraft.plugins.survival.TSSSurvivalPlugin;
 import org.bukkit.Chunk;
 import org.bukkit.Material;

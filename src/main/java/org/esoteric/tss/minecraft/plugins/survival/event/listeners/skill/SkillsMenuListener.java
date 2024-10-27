@@ -1,7 +1,7 @@
 package org.esoteric.tss.minecraft.plugins.survival.event.listeners.skill;
 
-import org.esoteric.tss.minecraft.plugins.core.data.player.survival.SkillType;
-import org.esoteric.tss.minecraft.plugins.core.util.DebugUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.survival.SkillType;
+import foundation.esoteric.tss.minecraft.plugins.core.util.DebugUtil;
 import org.esoteric.tss.minecraft.plugins.survival.TSSSurvivalPlugin;
 import org.esoteric.tss.minecraft.plugins.survival.menus.skill.SkillExpMenu;
 import org.esoteric.tss.minecraft.plugins.survival.menus.skill.SkillsMenu;

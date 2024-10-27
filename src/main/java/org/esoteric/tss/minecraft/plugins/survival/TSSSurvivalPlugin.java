@@ -1,7 +1,7 @@
 package org.esoteric.tss.minecraft.plugins.survival;
 
-import org.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
-import org.esoteric.tss.minecraft.plugins.ranks.TSSRanksPlugin;
+import foundation.esoteric.tss.minecraft.plugins.core.TSSCorePlugin;
+import foundation.esoteric.tss.minecraft.plugins.ranks.TSSRanksPlugin;
 import org.esoteric.tss.minecraft.plugins.survival.commands.claim.*;
 import org.esoteric.tss.minecraft.plugins.survival.commands.SkillsCommand;
 import org.esoteric.tss.minecraft.plugins.survival.commands.TradeCommand;
@@ -13,7 +13,6 @@ import org.esoteric.tss.minecraft.plugins.survival.event.listeners.claim.ClaimLi
 import org.esoteric.tss.minecraft.plugins.survival.event.listeners.skill.SkillsListener;
 import org.esoteric.tss.minecraft.plugins.survival.event.listeners.skill.SkillsMenuListener;
 import org.bukkit.Bukkit;
-import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 

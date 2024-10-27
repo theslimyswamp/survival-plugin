@@ -2,8 +2,8 @@ package org.esoteric.tss.minecraft.plugins.survival.event.listeners;
 
 import net.kyori.adventure.text.TextComponent;
 import net.minecraft.ChatFormatting;
-import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
-import org.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.Message;
+import foundation.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
 import org.esoteric.tss.minecraft.plugins.survival.TSSSurvivalPlugin;
 import org.esoteric.tss.minecraft.plugins.survival.map.renderers.MapClaimRenderer;
 import org.bukkit.*;

@@ -1,7 +1,7 @@
 package org.esoteric.tss.minecraft.plugins.survival.menus.skill;
 
-import org.esoteric.tss.minecraft.plugins.core.data.player.survival.SkillType;
-import org.esoteric.tss.minecraft.plugins.core.util.InventoryUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.survival.SkillType;
+import foundation.esoteric.tss.minecraft.plugins.core.util.InventoryUtil;
 import org.esoteric.tss.minecraft.plugins.survival.TSSSurvivalPlugin;
 import org.bukkit.Bukkit;
 import org.bukkit.NamespacedKey;

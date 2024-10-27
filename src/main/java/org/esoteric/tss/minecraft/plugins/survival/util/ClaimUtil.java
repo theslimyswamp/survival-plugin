@@ -6,7 +6,7 @@ import org.bukkit.block.BlockFace;
 import org.bukkit.entity.Player;
 import org.bukkit.persistence.PersistentDataContainer;
 import org.bukkit.persistence.PersistentDataType;
-import org.esoteric.tss.minecraft.plugins.core.util.DebugUtil;
+import foundation.esoteric.tss.minecraft.plugins.core.util.DebugUtil;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 

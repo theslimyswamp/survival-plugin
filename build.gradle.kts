@@ -21,8 +21,8 @@ repositories {
 }
 
 dependencies {
-    compileOnly("com.github.EsotericOrganisation:tss-core-plugin:0.2.1:dev-all")
-    compileOnly("com.github.EsotericOrganisation:tss-ranks-plugin:0.2.2:dev")
+    compileOnly("com.github.TheSlimySwamp:core-plugin:v0.2.2:dev-all")
+    compileOnly("com.github.TheSlimySwamp:ranks-plugin:v0.2.3:dev")
 
     paperweight.paperDevBundle("1.21-R0.1-SNAPSHOT")
 }

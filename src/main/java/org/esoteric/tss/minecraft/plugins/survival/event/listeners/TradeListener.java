@@ -1,7 +1,7 @@
 package org.esoteric.tss.minecraft.plugins.survival.event.listeners;
 
-import org.esoteric.tss.minecraft.plugins.core.data.player.Message;
-import org.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
+import foundation.esoteric.tss.minecraft.plugins.core.data.player.Message;
+import foundation.esoteric.tss.minecraft.plugins.core.managers.MessageManager;
 import org.esoteric.tss.minecraft.plugins.survival.TSSSurvivalPlugin;
 import org.esoteric.tss.minecraft.plugins.survival.menus.TradeMenu;
 import org.bukkit.entity.Entity;
